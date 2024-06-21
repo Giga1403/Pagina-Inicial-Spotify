@@ -1,0 +1,1 @@
+Projeto de HTML utilizando BootStrap CSS para codificar os layouts da página e criar uma pagina identica ao do Spotify, tudo criado apenas com intuito de APRENDIZADO, todos os direitos são reservados ao SPOTIFY.
